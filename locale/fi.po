@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "CLI"
-msgstr "KOMENTOTULKKI"
+msgid "Base"
+msgstr "Kanta"
 
-msgid "Apenas com Interface de Linhas de Comando."
-msgstr "Vain komentoriviliittymällä."
+msgid "Apenas pacotes basicos do biglinux sem Interface Gráfica."
+msgstr "Vain biglinux-peruspaketit ilman graafista käyttöliittymää."

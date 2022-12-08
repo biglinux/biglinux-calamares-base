@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "CLI"
-msgstr "CLI"
+msgid "Base"
+msgstr "기지"
 
-msgid "Apenas com Interface de Linhas de Comando."
-msgstr "명령줄 인터페이스에서만 가능합니다."
+msgid "Apenas pacotes basicos do biglinux sem Interface Gráfica."
+msgstr "그래픽 인터페이스가없는 기본 biglinux 패키지 만."

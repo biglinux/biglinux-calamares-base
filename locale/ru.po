@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "CLI"
-msgstr "Интерфейс командной строки"
+msgid "Base"
+msgstr "Основа"
 
-msgid "Apenas com Interface de Linhas de Comando."
-msgstr "Только с интерфейсом командной строки."
+msgid "Apenas pacotes basicos do biglinux sem Interface Gráfica."
+msgstr "Только базовые пакеты biglinux без графического интерфейса."
