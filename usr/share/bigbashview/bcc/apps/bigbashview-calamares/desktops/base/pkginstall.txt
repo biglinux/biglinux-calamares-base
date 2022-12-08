@@ -1,1 +1,1 @@
-biglinux-skel-cli
+biglinux-skel-base
