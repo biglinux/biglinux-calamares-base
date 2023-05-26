@@ -17,5 +17,5 @@ export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=biglinux-calamares-base
 
 
-DESKTOP_NAME_DESC=$"Base"
+DESKTOP_NAME_DESC="Base"
 DESKTOP_INFO_DESC=$"Apenas pacotes basicos do biglinux sem Interface Gráfica."
