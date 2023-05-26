@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Base"
-msgstr "Base"
-
 msgid "Apenas pacotes basicos do biglinux sem Interface Gráfica."
 msgstr "Kun grundlæggende biglinux-pakker uden grafisk grænseflade."

@@ -15,8 +15,5 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Base"
-msgstr "Base"
-
 msgid "Apenas pacotes basicos do biglinux sem Interface Gráfica."
 msgstr "Apenas pacotes basicos do biglinux sem Interface Gráfica."
